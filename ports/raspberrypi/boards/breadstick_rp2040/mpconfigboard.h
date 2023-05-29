@@ -1,4 +1,4 @@
-#define MICROPY_HW_BOARD_NAME "Raspberry Breadstick"
+#define MICROPY_HW_BOARD_NAME "Raspberry Breadstick v0"
 #define MICROPY_HW_MCU_NAME "rp2040"
 
 #define MICROPY_HW_LED_STATUS (&pin_GPIO25)
